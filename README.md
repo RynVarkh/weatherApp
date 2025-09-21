@@ -33,7 +33,7 @@ weatherApp/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/weatherApp.git
+git clone https://github.com/RynVarkh/weatherApp.git
 cd weatherApp
 ```
 
